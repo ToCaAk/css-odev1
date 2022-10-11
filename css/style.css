@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #06283D;
+    background-repeat: no-repeat;
+}
+
+p {
+    color: #DFF6FF;
+}
+
+.h1-red {
+    color: red;
+}
+
+.container {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+.navbar {
+    background-color: #47B5FF;
+    opacity: 0.4;
+
+}
+
+.navbarIcon {
+    margin-left: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.navbarMenu {
+    list-style: none;
+    /* text-align: center; */
+    margin-right: 10px;
+    text-align: right;
+    display: inline-block;
+    font-size: 25px;
+    float: right;
+}
+
+
+a {
+    color: rgb(252, 206, 137);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contactP {
+    color: #ffaf81;
+    font-size: 30px;
+
+}
+
+.facebook {
+    color: rgb(73, 26, 26);
+}
+
+.instagram {
+    color: rgb(73, 26, 26);
+}
+
+.twitter {
+    color: rgb(73, 26, 26);
+}
+
+.youtube {
+    color: rgb(73, 26, 26);
+}
+
+.twitch {
+    color: rgb(73, 26, 26);
+}
+
+.patika {
+    color: rgb(73, 26, 26);
+}
+
+.mail {
+    color: rgb(73, 26, 26);
+}
+
+.formP {
+    color: rgb(73, 26, 26);
+}
+
+.profilePictures {
+    border-radius: 50%;
+}
